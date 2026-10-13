@@ -5,6 +5,8 @@ Read this before changing anything. It holds the positioning, brand rules and ou
 ## What this is
 A conversion-focused homepage for **Zella Studios**. Plain HTML, CSS and JS with no build step: `index.html`, `styles.css`, `main.js`, `assets/`.
 
+**Live:** https://zella-studios.com — hosted on Vercel, auto-deployed from the `main` branch of `github.com/jen550/zella-studios` on every push.
+
 ## Positioning (keep this intact)
 - **Promise:** "More clients. More capacity. No extra headcount."
 - **Three outcomes** structure the whole site:
